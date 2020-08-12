@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/eduardo-garcia-aparicio-3ba073167/">
-    <img src="https://raw.githubusercontent.com/eduardez/eduardez/master/svg/dev/frameworks/react.svg" alt="react" style="vertical-align:top; margin:4px">
+    <img src="https://raw.githubusercontent.com/eduardez/eduardez/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
 </p>
 
