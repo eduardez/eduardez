@@ -2,7 +2,7 @@
 
 
 
-## Mis herramientas
+## Mis stats
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eduardez&show_icons=true&include_all_commits=true&theme=radical" alt="Eduardez's github stats" />
 
