@@ -8,10 +8,6 @@
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=eduardez&layout=compact&theme=radical" />
 
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eduardez&repo=github-readme-stats&theme=radical" />
-
-<img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=eduardez&repo=anuraghazra.github.io&theme=radical" />
-
 
 ### Lo que hago con mi tiempo
 <!--START_SECTION:waka-->
