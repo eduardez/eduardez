@@ -1,7 +1,7 @@
 ## About me 👋
 
 <p align="center">
-  Computer Engineer at UCLM. Still a  work in progress. 
+  <p>Computer Engineer at UCLM. Still a  work in progress. </p>
   <a href="https://www.linkedin.com/in/eduardo-garcia-aparicio-3ba073167/">
     <img src="https://raw.githubusercontent.com/eduardez/eduardez/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
