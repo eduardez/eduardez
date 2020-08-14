@@ -1,6 +1,7 @@
 ## About me 👋
 
 <p align="center">
+  Computer Engineer at UCLM. Still a  work in progress. 
   <a href="https://www.linkedin.com/in/eduardo-garcia-aparicio-3ba073167/">
     <img src="https://raw.githubusercontent.com/eduardez/eduardez/master/svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:4px">
   </a>
@@ -41,7 +42,7 @@
   
 </p>
 
-## - Mis stats
+## - My stats
 <p align="center">
 
 <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=eduardez&show_icons=true&include_all_commits=true&theme=default" alt="Eduardez's github stats" />
@@ -50,21 +51,4 @@
 
 </p>
 
-### - Lo que hago con mi tiempo
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
 
-<!--
-**eduardez/eduardez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
