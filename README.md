@@ -59,9 +59,9 @@
  > 
 > 💼 Opted to Hire
  > 
-> 📜 11 Public Repositories
+> 📜 11 Public Repositories 
  > 
-> 🔑 13 Private Repositories 
+> 🔑 13 Private Repositories  
 
 **I Mostly Code in Python** 
 
