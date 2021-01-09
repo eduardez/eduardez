@@ -8,7 +8,7 @@
 </p>
 
 
-## Tools I've worked with
+## Things I've worked with
 
 ### - Frameworks and Tools
 
